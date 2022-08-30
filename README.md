@@ -12,15 +12,3 @@ The objective of this project is to practice building ML models in order to inco
 ### Languages and Techniques
 * Python, Anaconda, Jupyter Notebook, PowerBI
 * Libraries: pandas, numpy, matplotlib, seaborn
-
-### Execution & Documentation
-This project was written in Jupyter.
-
-- To run this project follow these steps ,
-  - clone the repo using `git clone`
-  - on your command line/terminal, navigate the project folder (NewAgeSocialMedia)
-  - 'cd frontend'
-  - make sure you have npm installed
-  - run `npm update` 
-  - run `npm install`
-  - run `npm start` to start the service on `localhost:3000`
